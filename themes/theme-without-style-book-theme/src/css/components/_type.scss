@@ -1,0 +1,127 @@
+p,
+#pLarge.p-large {
+  font-size: $p-font-size-large;
+  line-height: $p-line-height-large;
+}
+
+p,
+#pBase.p-base {
+  font-size: $p-font-size-base;
+  line-height: $p-line-height-base;
+}
+
+p,
+#pSmall.p-small {
+  font-size: $p-font-size-small;
+  line-height: $p-line-height-small;
+}
+
+p,
+#pXsmall.p-xsmall {
+  font-size: $p-font-size-xsmall;
+  line-height: $p-line-height-xsmall;
+}
+
+p,
+#pTiny.p-tiny {
+  font-size: $p-font-size-tiny;
+  line-height: $p-line-height-tiny;
+}
+
+p,
+#aLarge.a-large {
+  font-size: $pAction-font-size-large;
+  line-height: $pAction-line-height-large;
+  font-weight: $pAction-font-weight;
+}
+
+p,
+#aMedium.a-medium {
+  font-size: $pAction-font-size-medium;
+  line-height: $pAction-line-height-medium;
+  font-weight: $pAction-font-weight;
+}
+
+p,
+#aSmall.a-small {
+  font-size: $pAction-font-size-small;
+  line-height: $pAction-line-height-small;
+  font-weight: $pAction-font-weight;
+}
+
+h1#heading1 {
+  font-size: $h1-font-size;
+  line-height: $h1-line-height;
+}
+h2#heading2 {
+  font-size: $h2-font-size;
+  line-height: $h2-line-height;
+}
+h3#heading3 {
+  font-size: $h3-font-size;
+  line-height: $h3-line-height;
+}
+h4#heading4 {
+  font-size: $h4-font-size;
+  line-height: $h4-line-height;
+}
+h5#heading5 {
+  font-size: $h5-font-size;
+  line-height: $h5-line-height;
+}
+h6#heading6 {
+  font-size: $h5-font-size;
+  line-height: $h6-line-height;
+}
+
+// Tablet
+h1#headingMd1.h1-md {
+  font-size: $h1-font-size-tablet;
+  line-height: $h1-line-height-tablet;
+}
+h2#headingMd2.h2-md {
+  font-size: $h2-font-size-tablet;
+  line-height: $h2-line-height-tablet;
+}
+h3#headingMd3.h3-md {
+  font-size: $h3-font-size-tablet;
+  line-height: $h3-line-height-tablet;
+}
+h4#headingMd4.h4-md {
+  font-size: $h4-font-size-tablet;
+  line-height: $h4-line-height-tablet;
+}
+h5#headingMd5.h5-md {
+  font-size: $h5-font-size-tablet;
+  line-height: $h5-line-height-tablet;
+}
+h6#headingMd6.h6-md {
+  font-size: $h6-font-size-tablet;
+  line-height: $h6-line-height-tablet;
+}
+
+//Mobile
+h1#headingSm1.h1-sm {
+  font-size: $h1-font-size-mobile;
+  line-height: $h1-line-height-mobile;
+}
+h2#headingSm2.h2-sm {
+  font-size: $h2-font-size-mobile;
+  line-height: $h2-line-height-mobile;
+}
+h3#headingSm3.h3-sm {
+  font-size: $h3-font-size-mobile;
+  line-height: $h3-line-height-mobile;
+}
+h4#headingSm4.h4-sm {
+  font-size: $h4-font-size-mobile;
+  line-height: $h4-line-height-mobile;
+}
+h5#headingSm5.h5-sm {
+  font-size: $h5-font-size-mobile;
+  line-height: $h5-line-height-mobile;
+}
+h6#headingSm6.h6-sm {
+  font-size: $h6-font-size-mobile;
+  line-height: $h6-line-height-mobile;
+}
