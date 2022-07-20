@@ -1,29 +1,12 @@
 $border-radius: 0;
 $border-radius-lg: 0;
 $border-radius-sm: 0;
-$rounded-border-radius: 5px;
+$rounded-border-radius: 0.3125rem;
 
-$btn: () !default;
-$btn: map-deep-merge(
-  (
-    border-radius: $border-radius,
-  ),
-  $btn
-);
-
-$btn-outline-primary: () !default;
-$btn-outline-primary: map-deep-merge(
-  (
-    border-radius: $border-radius,
-  ),
-  $btn-outline-primary
-);
 $btn-primary: () !default;
 $btn-primary: map-deep-merge(
   (
     color: $default-color,
-    border-radius: $border-radius,
-
     hover: (
       color: $default-color,
       background-color: $primary-button-hover,
